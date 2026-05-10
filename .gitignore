@@ -5,3 +5,7 @@ logs/
 git_ignore/
 keyframes/
 0220d11b-ab12-4b02-93ce-5d7c205c7043.avi
+anomaly_classification/model_classification_20epochs_adam_lr0.01.h5
+anomaly_classification/model/
+polyp_segmentation/model_segmentation_30epochs_customLoss.h5
+polyp_segmentation/model_segmentation_bce_25_epochs.h5
